@@ -12,3 +12,6 @@ pressing the cursor buttons; 'space' used for shooting. At
 > bottom of the screen the Player loses one ship. If the
 > Player lose all his three ships the game ends.
 
+#### Update #1
+> Added background; <br>
+> Now the ship can move!
