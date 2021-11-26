@@ -15,3 +15,6 @@ pressing the cursor buttons; 'space' used for shooting. At
 #### Update #1
 > Added background; <br>
 > Now the ship can move!
+
+#### Update #2
+> Added the possibility to shoot!
